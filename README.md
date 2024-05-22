@@ -8,7 +8,7 @@
 
 
 
-[embed]CS50P(1).pdf[/embed]
+[embed]https://github.com/bishal85/CS50-Project/CS50P(1).pdf[/embed]
 <!---
 bishal85/bishal85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
